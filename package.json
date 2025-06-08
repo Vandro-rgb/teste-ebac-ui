@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Vandro-rgb/teste-ebac-ui#readme",
   "devDependencies": {
     "cypress": "^14.4.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1"
   }
 }
